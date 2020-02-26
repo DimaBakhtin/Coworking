@@ -1,0 +1,28 @@
+.text-banner {
+    margin-top: 60px;
+    background-color: #27273f;
+}
+
+.text-banner__img {
+    background: url(../../images/pattern.png) center center / cover no-repeat;
+    min-height: 174px;
+    max-width: 1043px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-banner__text {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+    position: absolute;
+    max-width: 614px;
+}
+
+.text-banner__text span {
+    color: #cb2376;
+    font-weight: 700;
+}

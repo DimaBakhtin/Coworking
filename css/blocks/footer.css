@@ -1,0 +1,32 @@
+.footer {
+    background-color: #27273f;
+}
+
+.footer__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 11px 0;
+}
+
+.footer__copywrite-text {
+    width: 264px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #fff;
+    line-height: 18px;
+}
+
+.footer__copywrite-text span {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.footer__copywrite-text b {
+    font-weight: 700;
+}
+
+.footer .logo {
+    width: 18%;
+}
+

@@ -1,0 +1,10 @@
+.banner {
+    text-align: center;
+    background-color: #27273f;
+    margin-bottom: 53px;
+}
+
+.banner__img {
+    object-fit: cover;
+    max-width: 100%;
+}

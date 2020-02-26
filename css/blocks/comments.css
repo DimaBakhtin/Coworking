@@ -1,0 +1,15 @@
+.comments__title {
+    margin-bottom: 41px;
+}
+
+.comments-block{
+    margin-top: 36px;
+}
+
+.comments-content {
+    margin-bottom: 44px;
+}
+
+.comments-content__item {
+    width: 90%
+}

@@ -1,0 +1,34 @@
+.partners {
+    margin-bottom: 92px;
+}
+
+.partners__title {
+    margin-bottom: 39px;
+}
+
+.partners__list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: -49px;
+    align-items: center;
+    margin-left: -58px;
+}
+
+.partners__item {
+    width: 29%;
+    margin-bottom: 49px;
+    text-align: center;
+}
+
+.partners__link {
+    display: inline-block;  
+}
+
+.partners__img {
+    filter: grayscale(100%);
+}
+
+.partners__link:hover .partners__img{
+    filter: grayscale(0);
+    transition: .7s;
+}

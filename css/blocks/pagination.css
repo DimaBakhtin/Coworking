@@ -62,8 +62,13 @@
     z-index: -10;
 }
 
+.pagination__link:hover {
+    color: #cb2376;
+    transition: .4s;
+}
+
 .pagination__item--active .pagination__link {
-    color: #fff;
+    color: #cb2376;
 }
 
 
